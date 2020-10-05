@@ -25,8 +25,9 @@
 ##### Languages I have used
 
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=JavaScript)
-![html5](https://img.shields.io/badge/-html5-000000?style=flat&logo=html5)
-![css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
+![Html5](https://img.shields.io/badge/-html5-000000?style=flat&logo=html5)
+![Css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
+![Jsx](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 
 
 #### Frameworks I have used
