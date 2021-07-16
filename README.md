@@ -13,7 +13,7 @@
 <br/>
 
 
-- 🔭 I’m Full MERN stack Developer
+- 🔭 I’m React / React-Native Developer
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on ROR
 - 🤔 I’m looking for help with REDUX / CUSTOM HOOKS
