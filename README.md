@@ -14,12 +14,12 @@
 
 
 - 🔭 I’m Full MERN stack Developer
-- 🌱 I’m currently learning Firebase
-- 👯 I’m looking to collaborate on ReactNative and Laravel
-- 🤔 I’m looking for help with Laravel
+- 🌱 I’m currently learning TypeScript
+- 👯 I’m looking to collaborate on ROR
+- 🤔 I’m looking for help with REDUX / CUSTOM HOOKS
 - 💬 Ask me about React-native and Javascript
 - 📫 How to reach me: Umeraftab7747@gmail.com
-- ⚡ Fun fact: React is faster and Easy
+- ⚡ Fun fact: React is Not a Framework, But a JavaScript Library
 
 
 ##### Languages I have used
