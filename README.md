@@ -43,7 +43,4 @@
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umeraftab7747&hide_langs_below=1&layout=compact&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api?username=Umeraftab7747&show_icons=true&theme=dark">
-</p>
+
