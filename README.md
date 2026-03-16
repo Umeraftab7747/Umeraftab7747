@@ -1,50 +1,91 @@
-### Hi there,I am Umer Aftab React Native Developer 👋😄 
+<h1 align="center">Hi 👋, I'm Umer Aftab</h1>
+<h3 align="center">📱 Mobile App Developer | React Native Developer | Building modern apps with clean UI & smooth UX</h3>
 
-<a href="https://twitter.com/umeraftab7747">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://github.com/Umeraftab7747">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/Ranaomar321">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br/>
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;React+Native+Developer;Crafting+Beautiful+Cross-Platform+Apps;Turning+Ideas+into+Smooth+Mobile+Experiences" alt="Typing SVG" />
+</p>
 
+---
 
-- 🔭 I’m React / React-Native Developer
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on ROR
-- 🤔 I’m looking for help with REDUX / CUSTOM HOOKS
-- 💬 Ask me about React-native and Javascript
-- 📫 How to reach me: Umeraftab7747@gmail.com
-- ⚡ Fun fact: React is Not a Framework, But a JavaScript Library
+## 🚀 About Me
 
+- 📱 I’m a **Mobile App Developer**
+- ⚛️ I build cross-platform apps using **React Native**
+- 🎨 I love creating **beautiful, modern, and responsive mobile UIs**
+- 🧠 Currently improving my skills in **TypeScript, Redux, and scalable app architecture**
+- 🔥 Interested in building apps that feel **fast, polished, and production-ready**
+- 🤝 Open to collaborating on **mobile app projects**
+- 💬 Ask me about **React Native, JavaScript, UI design, and app development**
 
-##### Languages I have used
+---
 
-![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
-![Html5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=html5)
-![Css3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3)
-![Jsx](https://img.shields.io/badge/-Jsx-000000?style=flat&logo=React)
+## 🛠️ Tech Stack
 
+### 📲 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=3DDC84" />
+</p>
 
-#### Frameworks I have used
+### 💻 Frontend & Programming
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
-![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
-![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
-![Tailwind](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=Tailwind%20css)
+### 🧰 Tools & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Redux-0A0A0A?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
+---
 
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umeraftab7747&hide_langs_below=1&layout=compact&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api?username=Umeraftab7747&show_icons=true&theme=dark">
-</p> -->
+## 🌟 What I Focus On
 
+- ✅ Clean and reusable code
+- ✅ Smooth mobile UI/UX
+- ✅ Cross-platform app development
+- ✅ API integration
+- ✅ AI / ML Integertions 
+- ✅ Performance-focused apps
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:Umeraftab7747@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Line
+
+> “I don’t just build apps — I create mobile experiences.” 📱✨
