@@ -19,31 +19,54 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Arsenal
 
-### 📲 Mobile Development
+### 📱 Mobile App Development
 <p>
   <img src="https://img.shields.io/badge/React%20Native-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/iOS-0A0A0A?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-### 💻 Frontend & Programming
+### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 🧰 Tools & Libraries
+### ⚛️ Frontend & State Management
 <p>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-0A0A0A?style=for-the-badge&logo=redux&logoColor=764ABC" />
-  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-0A0A0A?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-0A0A0A?style=for-the-badge&logo=axios&logoColor=5A29E4" />
 </p>
 
+### 🛠️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Strapi-0A0A0A?style=for-the-badge&logo=strapi&logoColor=8E75FF" />
+  <img src="https://img.shields.io/badge/Sanity-0A0A0A?style=for-the-badge&logo=sanity&logoColor=F03E2F" />
+  <img src="https://img.shields.io/badge/Convex-0A0A0A?style=for-the-badge&logo=convex&logoColor=F97316" />
+</p>
+
+### ☁️ Cloud & Dev Platforms
+<p>
+  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Azure-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/GCP-0A0A0A?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+</p>
+
+### 🤖 AI / LLM Tools
+<p>
+  <img src="https://img.shields.io/badge/LLM%20Manager-0A0A0A?style=for-the-badge&logo=openai&logoColor=10A37F" />
+  <img src="https://img.shields.io/badge/OpenClaw-0A0A0A?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</p>
 ---
 
 ## 🌟 What I Focus On
